@@ -1,4 +1,4 @@
-# greenbasket
+# GreenBasket
 Sistemos tikslas - palengvinti klientams prieigą prie šviežių produktų ir supaprastinti vaisių ir daržovių užsakymo, pirkimo procesą. 
 Sistema suteikia klientams patogų ir paprastą būdą įsigyti šviežių produktų internetu. 
 Svetainė bus sukurta taip, kad joje būtų siūlomas vaisių ir daržovių asortimentas, klientai galėtų pateikti užsakymus bei tvarkyti mokėjimus. 
